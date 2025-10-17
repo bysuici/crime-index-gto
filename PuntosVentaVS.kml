@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PUNTOS DE VENTA VALLE DE SANTIAGO</name>
+    <description/>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>PUNTOS VALLE DE SANTIAGO</name>
+      <Placemark>
+        <name>PUNTO DE VENTA </name>
+        <description><![CDATA[Punto de venta de droga, pertenece a líder delictivo de nombre Issac "N", quien se encuentra preso.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.121627,20.3619638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZONA DE EXTORSIÓN</name>
+        <description>Sujetos a bordo de una camioneta Blazer, color negro, se dedican a extorsionar tiendas de autoservicio y transporte público.</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1369388,20.357391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSIBLE PUNTO DE VENTA</name>
+        <description>Posible punto de venta y reunión, donde privaron de la libertad a un masculino, sin denuncia alguna.</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1429987,20.3563107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE REUNIÓN Y VIVIENDA DE COLOMBIANOS</name>
+        <description>Punto de reunión y vivienda de colombianos, destacando que, los homicidios suscitados recientemente en el municipio, están relacionados con colombianos.</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1918662,20.390025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE REUNIÓN Y VIVIENDA DE COLOMBIANOS</name>
+        <description>Punto de reunión y vivienda de colombianos, destacando que, los homicidios suscitados recientemente en el municipio, están relacionados con colombianos.</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1955288,20.4004942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE VENTA Y REUNIÓN DE CÉLULA DELICTIVO</name>
+        <description>Punto de venta de droga y reunión de célula delictiva (posiblemente armados)</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1969187,20.3887955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE VENTA</name>
+        <description>Punto de venta de droga en las escaleras</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1972882,20.3884474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE REUNIÓN DE HAITIANOS</name>
+        <description>Punto de reunión de haitianos, se han encontrado siluetas y cartuchos percutidos en el monte, frente a la casa (posible punto de venta de droga)</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1995655,20.3931038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DOMICILIO DE GRUPO ARMADO</name>
+        <description>Domicilio donde se han observado sujetos armados y vehículos sospechosos</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.156256,20.3745023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE PASO DE GRUPO ARMADO</name>
+        <description>Punto de paso de grupo armado , salen de la comunidad entre las 06:30 y 07:30 hrs.</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.136164,20.4486316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[PUNTO DE VENTA Y CASA DE "RIGO"]]></name>
+        <description><![CDATA[Punto de venta de drogas y casa de  (a) "El Rigo"]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.185889,20.3820712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE HALCONEO </name>
+        <description>Punto de halconeo a la entrada de la Choricera</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1849157,20.3840554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE VENTA</name>
+        <description>Punto de reunión y venta de droga, en ocasiones, salen del lugar por Aquiles Serdán </description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1898712,20.3803246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE VENTA</name>
+        <description>Punto de venta de droga</description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1972865,20.3886382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUNTO DE VENTA</name>
+        <description>Punto de venta de  droga </description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <Point>
+          <coordinates>
+            -101.1989226,20.3925406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
