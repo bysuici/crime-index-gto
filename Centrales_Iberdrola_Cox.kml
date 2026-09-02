@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Centrales Iberdrola - Cox Mexico</name>
+<description><![CDATA[15 centrales operativas adquiridas por Grupo Cox a Iberdrola Mexico (2,600 MW). Elaborado 28-ago-2026.]]></description>
+<Style id="s0">
+<IconStyle><color>ff0000ff</color><scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/electronics.png</href></Icon></IconStyle>
+<LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="s1">
+<IconStyle><color>ff00a5ff</color><scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/electronics.png</href></Icon></IconStyle>
+<LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="s2">
+<IconStyle><color>ff00ff00</color><scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon></IconStyle>
+<LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="s3">
+<IconStyle><color>ff00ffff</color><scale>1.1</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/shapes/water.png</href></Icon></IconStyle>
+<LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Folder>
+<name>Ciclo combinado (gas) (2 centrales / 1166 MW)</name>
+<open>0</open>
+<Placemark>
+<name>El Carmen (866 MW)</name>
+<styleUrl>#s0</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Ciclo combinado (gas)<br/><b>Capacidad:</b> 866<br/><b>Coordenadas (WGS84):</b> 25.869982, -100.358834<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> El Carmen<br/><b>Estado:</b> Nuevo León<br/><b>Precisión coordenadas:</b> Sitio GEM (exactitud ~100 m). Contrato laboral: 25°52.147'N, 100°22.009'O (25.86912, -100.36682). No confundir con CC Escobedo/Noreste (MIP) a 25.866804, -100.369551.<br/><b>Dirección (cert. AENOR / Maps):</b> Municipio El Carmen, NL<br/><b>Notas técnicas:</b> COD sep-2019; 2 TG Mitsubishi M501J + 1 TV; 100% MEM]]></description>
+<Point><coordinates>-100.358834,25.869982,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dulces Nombres II (300 MW)</name>
+<styleUrl>#s0</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Ciclo combinado (gas)<br/><b>Capacidad:</b> 300<br/><b>Coordenadas (WGS84):</b> 25.718855, -100.096294<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Pesquería<br/><b>Estado:</b> Nuevo León<br/><b>Precisión coordenadas:</b> Sitio GEM exacto del complejo Dulces Nombres (unidades I–IV + II). Pin original a ~180 m.<br/><b>Dirección (cert. AENOR / Maps):</b> Carr. a Dulces Nombres km 12.5, CP 66650<br/><b>Notas técnicas:</b> COD oct-2016; unidad adicional del complejo Dulces Nombres]]></description>
+<Point><coordinates>-100.096294,25.718855,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Cogeneración (gas) (4 centrales / 205 MW)</name>
+<open>0</open>
+<Placemark>
+<name>Cogeneración Altamira (PCA) (60 MW)</name>
+<styleUrl>#s1</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Cogeneración (gas)<br/><b>Capacidad:</b> 60<br/><b>Coordenadas (WGS84):</b> 22.447376, -97.970472<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Altamira<br/><b>Estado:</b> Tamaulipas<br/><b>Precisión coordenadas:</b> Sitio GEM exacto (Altamira Dynasol / Iberdrola Cogeneración Altamira). RETC ICA2800300160 y MIA 28TM2015E0009 (UTM 14Q ~605900, 2482700). Distinta de Cogen Alpek/KKR (22.375, -97.891) y de CC Altamira CFE.<br/><b>Dirección (cert. AENOR / Maps):</b> Carr. Tampico-Mante km 28+92, Col. Santa Amalia, CP 89602<br/><b>Notas técnicas:</b> Diseño 2017 AEG/Tamoin: 51 MW TG + 9 MW TV = 60 MW. Cox offering memo may-2026 reporta 57 MW net / 51 MW permiso (ICA). Cliente planta química. COD ene-2018. Factor de carga 2025 ~81%.]]></description>
+<Point><coordinates>-97.970472,22.447376,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cogeneración Ramos Arizpe (PCR) (52 MW)</name>
+<styleUrl>#s1</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Cogeneración (gas)<br/><b>Capacidad:</b> 52<br/><b>Coordenadas (WGS84):</b> 25.59547, -100.888213<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Ramos Arizpe<br/><b>Estado:</b> Coahuila<br/><b>Precisión coordenadas:</b> Sitio GEM exacto (predio Kimberly-Clark Ramos). Pin original a ~220 m al este.<br/><b>Dirección (cert. AENOR / Maps):</b> Carr. Saltillo-Monterrey km 21.4, Corredor Industrial Centro, CP 25900<br/><b>Notas técnicas:</b> Suministro de energía y vapor]]></description>
+<Point><coordinates>-100.888213,25.59547,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cogeneración Bajío (PCB) (52 MW)</name>
+<styleUrl>#s1</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Cogeneración (gas)<br/><b>Capacidad:</b> 52<br/><b>Coordenadas (WGS84):</b> 20.380952, -99.977705<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> San Juan del Río<br/><b>Estado:</b> Querétaro<br/><b>Precisión coordenadas:</b> Sitio GEM exacto (complejo Kimberly-Clark San Juan del Río). Pin original a ~50 m.<br/><b>Dirección (cert. AENOR / Maps):</b> Av. Río San Juan 4, San Cayetano, CP 76806<br/><b>Notas técnicas:</b> COD 4-ene-2018; TG + HRSG con quemador de aire fresco + TV extracción media presión; vapor a Kimberly-Clark: 23.1 t/h @ 17.5 bar(a) y 9.2 t/h @ 8.0 bar(a); electricidad a offtakers industriales (Mazda, FCA, Vidriera del Potosí). Permiso CRE E/1486/COG/2015 vigente hasta 2037. Factor de carga 2025 ~82%.]]></description>
+<Point><coordinates>-99.977705,20.380952,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Cogeneración Monterrey (PCM) (41 MW)</name>
+<styleUrl>#s1</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Cogeneración (gas)<br/><b>Capacidad:</b> 41<br/><b>Coordenadas (WGS84):</b> 25.692556, -100.319376<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Monterrey<br/><b>Estado:</b> Nuevo León<br/><b>Precisión coordenadas:</b> Sitio (dirección certificada AENOR: Miguel Barragán Pte. 702, Col. Industrial, CP 64440). DENUE/directorio coincide. Parque Industrial Monterrey.<br/><b>Dirección (cert. AENOR / Maps):</b> Miguel Barragán Pte. 702, Col. Industrial, CP 64440<br/><b>Notas técnicas:</b> COD LIE 16-mar-2025 (permiso E/2311/GEN/2023 vence 17-nov-2053); GT (hist. GE LM6000) + tren dual HRSG + TV; interconexión 37.2 MW en SE Monterrey 138 kV; capacidad contratada LIE 40 MW hasta 2049; vapor a industrias (histórico Cuauhtémoc Moctezuma, Grafo Regia, Cartón Titán, Fábricas Monterrey). Factor de carga 2025 ~82%. Antecedente PEGI (años 50); modernizada por Iberdrola ~2003.]]></description>
+<Point><coordinates>-100.319376,25.692556,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Eólico (6 centrales / 590 MW)</name>
+<open>0</open>
+<Placemark>
+<name>PIER IV (221 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 221<br/><b>Coordenadas (WGS84):</b> 18.8606, -97.376<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Cañada Morelos<br/><b>Estado:</b> Puebla<br/><b>Precisión coordenadas:</b> Centroide GEM/TheWindPower del parque (aprox.). El parque cruza Cañada Morelos–Chapulco–Palmar de Bravo; el pin original 18.720719, -97.375622 corresponde a un tramo sur / subestación (~15 km al S).<br/><b>Dirección (cert. AENOR / Maps):</b> Predio Hoyo del Aire, Loc. Cerro Gordo, CP 75589]]></description>
+<Point><coordinates>-97.376,18.8606,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Santiago Eólico (105 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 105<br/><b>Coordenadas (WGS84):</b> 21.700912, -101.236885<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> San Felipe<br/><b>Estado:</b> Guanajuato<br/><b>Precisión coordenadas:</b> Sitio Google/GEM (Parque Eólico Santiago, San Felipe). Pin original 21.684178, -101.20749 a ~4 km. TheWindPower 21.70083, -101.23906.<br/><b>Dirección (cert. AENOR / Maps):</b> San Pedro de Almoloyán<br/><b>Notas técnicas:</b> 50 aerogeneradores x 2.1 MW; 241 GWh/año]]></description>
+<Point><coordinates>-101.236885,21.700912,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PEM (La Ventosa) (102 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 102<br/><b>Coordenadas (WGS84):</b> 16.4355, -95.0174<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Juchitán de Zaragoza<br/><b>Estado:</b> Oaxaca<br/><b>Precisión coordenadas:</b> Sitio TheWindPower/GEM La Ventosa–Parques Ecológicos de México. El pin original 16.54466, -94.95974 caía en el poblado La Ventosa / cluster Bii Nee Stipa (~13 km al NE), no en el predio PEM.<br/><b>Dirección (cert. AENOR / Maps):</b> Carr. Coatzacoalcos-Salina Cruz, tramo La Ventosa-Juchitán km 244+580, CP 70102<br/><b>Notas técnicas:</b> Parques Ecológicos de México S.A. de C.V.]]></description>
+<Point><coordinates>-95.0174,16.4355,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dos Arbolitos (70 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 70<br/><b>Coordenadas (WGS84):</b> 16.5106, -94.9689<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Juchitán de Zaragoza<br/><b>Estado:</b> Oaxaca<br/><b>Precisión coordenadas:</b> Sitio TheWindPower/GEM del cluster Bii Nee Stipa / Dos Arbolitos. Pin original (subestación) a ~2.4 km.<br/><b>Dirección (cert. AENOR / Maps):</b> Carr. La Ventosa-Juchitán km 244+580, Paraje Dos Arbolitos, Agencia La Ventosa, CP 70102]]></description>
+<Point><coordinates>-94.9689,16.5106,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>PIER II (66 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 66<br/><b>Coordenadas (WGS84):</b> 18.857445, -97.39325<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> Esperanza / Cañada Morelos<br/><b>Estado:</b> Puebla<br/><b>Precisión coordenadas:</b> Sitio TheWindPower (18°51'26.8"N, 97°23'35.7"O). GEM 18.8721, -97.3957. Pin original a ~500 m.<br/><b>Dirección (cert. AENOR / Maps):</b> Junto a la comunidad La Esperanza, CP 75560<br/><b>Notas técnicas:</b> 33 aerogeneradores x 2.6 MW; 25 mil hogares equiv.]]></description>
+<Point><coordinates>-97.39325,18.857445,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Bii Nee Stipa (26 MW)</name>
+<styleUrl>#s2</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Eólico<br/><b>Capacidad:</b> 26<br/><b>Coordenadas (WGS84):</b> 16.5106, -94.9689<br/><b>Unidad:</b> MW<br/><b>Municipio:</b> El Espinal<br/><b>Estado:</b> Oaxaca<br/><b>Precisión coordenadas:</b> Sitio TheWindPower/GEM fase 1 (26 MW Iberdrola) en Juchitán/La Ventosa. El dato original 16.49, -95.04 era cabecera de El Espinal (~8 km).<br/><b>Dirección (cert. AENOR / Maps):</b> Paraje El Chamizal, CP 70127]]></description>
+<Point><coordinates>-94.9689,16.5106,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Fotovoltaico (3 centrales / 643 MWp)</name>
+<open>0</open>
+<Placemark>
+<name>Cuyoaco (274 MWp)</name>
+<styleUrl>#s3</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Fotovoltaico<br/><b>Capacidad:</b> 274<br/><b>Coordenadas (WGS84):</b> 19.5848, -97.5922<br/><b>Unidad:</b> MWp<br/><b>Municipio:</b> Cuyoaco / Ocotepec<br/><b>Estado:</b> Puebla<br/><b>Precisión coordenadas:</b> Sitio GEM/Google exacto (IBERDROLA CUYOACO Energía). Pin original 19.602423, -97.620911 era la cabecera municipal (~3.5 km al NO).<br/><b>Notas técnicas:</b> COD dic-2020; ~730 mil paneles; 703 ha; 571 GWh/año]]></description>
+<Point><coordinates>-97.5922,19.5848,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Santiago Fotovoltaico (232 MWp)</name>
+<styleUrl>#s3</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Fotovoltaico<br/><b>Capacidad:</b> 232<br/><b>Coordenadas (WGS84):</b> 21.886, -101.2301<br/><b>Unidad:</b> MWp<br/><b>Municipio:</b> Villa de Arriaga<br/><b>Estado:</b> San Luis Potosí<br/><b>Precisión coordenadas:</b> Sitio GEM exacto (Santiago Arriaga PV / Villa de Arriaga). Pin original a ~750 m.<br/><b>Dirección (cert. AENOR / Maps):</b> CP 78494<br/><b>Notas técnicas:</b> COD dic-2018; 672 mil paneles; 750 ha; 2 subestaciones; 460 GWh/año]]></description>
+<Point><coordinates>-101.2301,21.886,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hermosillo (137 MWp)</name>
+<styleUrl>#s3</styleUrl>
+<description><![CDATA[<b>Tecnología:</b> Fotovoltaico<br/><b>Capacidad:</b> 137<br/><b>Coordenadas (WGS84):</b> 29.06312, -110.76891<br/><b>Unidad:</b> MWp<br/><b>Municipio:</b> Hermosillo<br/><b>Estado:</b> Sonora<br/><b>Precisión coordenadas:</b> Sitio OSM way 784556309 + centroide MIA SEMARNAT (UTM 12R ~522700, 3214850). Pin original 29.0729, -110.9559 era el centro de Hermosillo (~18 km al O). GEM 28.9622,-111.5030 apunta a otro predio (no usar).<br/><b>Notas técnicas:</b> COD dic-2018]]></description>
+<Point><coordinates>-110.76891,29.06312,0</coordinates></Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
